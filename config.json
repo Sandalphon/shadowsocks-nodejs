@@ -2,7 +2,7 @@
     "server":"sv-3.picspeed.tk",
     "server_port":80,
     "local_port":1080,
-    "password":"TATP911112",
+    "password":"Ss1",
     "timeout":600,
     "method":"aes-256-cfb"
 }
