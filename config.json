@@ -1,8 +1,8 @@
 {
-    "server":"127.0.0.1",
-    "server_port":8388,
+    "server":"sv-3.picspeed.tk",
+    "server_port":80,
     "local_port":1080,
-    "password":"barfoo!",
+    "password":"TATP911112",
     "timeout":600,
     "method":"aes-256-cfb"
 }
