@@ -1,5 +1,5 @@
 {
-    "server":"sv-3.picspeed.tk",
+    "server":"127.0.0.1",
     "server_port":80,
     "local_port":1080,
     "password":"Ss1",
